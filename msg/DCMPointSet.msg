@@ -1,0 +1,9 @@
+geometry_msgs/Point vrp
+geometry_msgs/Point dcm
+geometry_msgs/Quaternion hip_orientation
+geometry_msgs/Point dsi
+geometry_msgs/Vector3 dsiP
+geometry_msgs/Point dsf
+geometry_msgs/Vector3 dsfP
+std_msgs/Int64 foot_id
+std_msgs/Int64 n_step
